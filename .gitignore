@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.local/
+.env
+.DS_Store
+# Provider snapshots contain temporary signed download URLs; retain them locally.
+docs/meshy/**/task_*.json
+art/**/*.blend1
+# Keep original authoring assets and provider receipts on this workstation.
+art/
+docs/meshy/
+docs/qa/
+design-qa.md

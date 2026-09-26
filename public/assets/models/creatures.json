@@ -1,0 +1,826 @@
+{
+  "sample-unisaurus": {
+    "pair": [
+      "dinosaur",
+      "unicorn"
+    ],
+    "url": "/assets/models/unisaurus-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "walk": "Walk",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "worldUrl": "/assets/models/unisaurus-world.glb",
+    "motion": "step"
+  },
+  "catalogue-lion-unicorn-v1": {
+    "pair": [
+      "unicorn",
+      "lion"
+    ],
+    "url": "/assets/models/lion-unicorn-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.1782,
+      0.1968
+    ],
+    "worldUrl": "/assets/models/lion-unicorn-world.glb",
+    "motion": "step"
+  },
+  "catalogue-frog-penguin-v1": {
+    "pair": [
+      "frog",
+      "penguin"
+    ],
+    "url": "/assets/models/frog-penguin-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.0192,
+      -0.0224
+    ],
+    "worldUrl": "/assets/models/frog-penguin-world.glb",
+    "motion": "hop"
+  },
+  "catalogue-dinosaur-penguin-v1": {
+    "pair": [
+      "dinosaur",
+      "penguin"
+    ],
+    "url": "/assets/models/dinosaur-penguin-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.1544,
+      0.4311
+    ],
+    "worldUrl": "/assets/models/dinosaur-penguin-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-frog-lion-v1": {
+    "pair": [
+      "frog",
+      "lion"
+    ],
+    "url": "/assets/models/frog-lion-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3558,
+      0.3199
+    ],
+    "worldUrl": "/assets/models/frog-lion-world.glb",
+    "motion": "hop"
+  },
+  "catalogue-lion-monkey-v1": {
+    "pair": [
+      "monkey",
+      "lion"
+    ],
+    "url": "/assets/models/lion-monkey-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3685,
+      0.1984
+    ],
+    "worldUrl": "/assets/models/lion-monkey-world.glb",
+    "motion": "step"
+  },
+  "catalogue-cat-frog-v1": {
+    "pair": [
+      "cat",
+      "frog"
+    ],
+    "url": "/assets/models/cat-frog-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2132,
+      0.2673
+    ],
+    "worldUrl": "/assets/models/cat-frog-world.glb",
+    "motion": "hop"
+  },
+  "catalogue-monkey-penguin-v1": {
+    "pair": [
+      "monkey",
+      "penguin"
+    ],
+    "url": "/assets/models/monkey-penguin-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2252,
+      0.0422
+    ],
+    "worldUrl": "/assets/models/monkey-penguin-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-elephant-monkey-v1": {
+    "pair": [
+      "monkey",
+      "elephant"
+    ],
+    "url": "/assets/models/elephant-monkey-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2351,
+      -0.0769
+    ],
+    "worldUrl": "/assets/models/elephant-monkey-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-cat-lion-v1": {
+    "pair": [
+      "cat",
+      "lion"
+    ],
+    "url": "/assets/models/cat-lion-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3672,
+      -0.0025
+    ],
+    "worldUrl": "/assets/models/cat-lion-world.glb",
+    "motion": "step"
+  },
+  "catalogue-cat-dog-v1": {
+    "pair": [
+      "cat",
+      "dog"
+    ],
+    "url": "/assets/models/cat-dog-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3235,
+      0.221
+    ],
+    "worldUrl": "/assets/models/cat-dog-world.glb",
+    "motion": "step"
+  },
+  "catalogue-cat-monkey-v1": {
+    "pair": [
+      "cat",
+      "monkey"
+    ],
+    "url": "/assets/models/cat-monkey-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3493,
+      0.077
+    ],
+    "worldUrl": "/assets/models/cat-monkey-world.glb",
+    "motion": "step"
+  },
+  "catalogue-dog-lion-v1": {
+    "pair": [
+      "dog",
+      "lion"
+    ],
+    "url": "/assets/models/dog-lion-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3381,
+      0.6685
+    ],
+    "worldUrl": "/assets/models/dog-lion-world.glb",
+    "motion": "step"
+  },
+  "catalogue-penguin-unicorn-v1": {
+    "pair": [
+      "unicorn",
+      "penguin"
+    ],
+    "url": "/assets/models/penguin-unicorn-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.0874,
+      0.1532
+    ],
+    "worldUrl": "/assets/models/penguin-unicorn-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-elephant-unicorn-v1": {
+    "pair": [
+      "unicorn",
+      "elephant"
+    ],
+    "url": "/assets/models/elephant-unicorn-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.0799,
+      -0.0604
+    ],
+    "worldUrl": "/assets/models/elephant-unicorn-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-dog-monkey-v1": {
+    "pair": [
+      "dog",
+      "monkey"
+    ],
+    "url": "/assets/models/dog-monkey-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3072,
+      0.2277
+    ],
+    "worldUrl": "/assets/models/dog-monkey-world.glb",
+    "motion": "step"
+  },
+  "catalogue-frog-monkey-v1": {
+    "pair": [
+      "monkey",
+      "frog"
+    ],
+    "url": "/assets/models/frog-monkey-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2888,
+      0.3001
+    ],
+    "worldUrl": "/assets/models/frog-monkey-world.glb",
+    "motion": "hop"
+  },
+  "catalogue-dog-frog-v1": {
+    "pair": [
+      "dog",
+      "frog"
+    ],
+    "url": "/assets/models/dog-frog-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.1898,
+      0.1158
+    ],
+    "worldUrl": "/assets/models/dog-frog-world.glb",
+    "motion": "hop"
+  },
+  "catalogue-dinosaur-monkey-v1": {
+    "pair": [
+      "dinosaur",
+      "monkey"
+    ],
+    "url": "/assets/models/dinosaur-monkey-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3029,
+      0.4172
+    ],
+    "worldUrl": "/assets/models/dinosaur-monkey-world.glb",
+    "motion": "step"
+  },
+  "catalogue-dog-unicorn-v1": {
+    "pair": [
+      "unicorn",
+      "dog"
+    ],
+    "url": "/assets/models/dog-unicorn-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2331,
+      0.2374
+    ],
+    "worldUrl": "/assets/models/dog-unicorn-world.glb",
+    "motion": "step"
+  },
+  "catalogue-cat-unicorn-v1": {
+    "pair": [
+      "unicorn",
+      "cat"
+    ],
+    "url": "/assets/models/cat-unicorn-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.1588,
+      0.1836
+    ],
+    "worldUrl": "/assets/models/cat-unicorn-world.glb",
+    "motion": "step"
+  },
+  "catalogue-cat-elephant-v1": {
+    "pair": [
+      "cat",
+      "elephant"
+    ],
+    "url": "/assets/models/cat-elephant-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2482,
+      -0.0122
+    ],
+    "worldUrl": "/assets/models/cat-elephant-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-dinosaur-lion-v1": {
+    "pair": [
+      "dinosaur",
+      "lion"
+    ],
+    "url": "/assets/models/dinosaur-lion-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3182,
+      0.5365
+    ],
+    "worldUrl": "/assets/models/dinosaur-lion-world.glb",
+    "motion": "step"
+  },
+  "catalogue-dog-elephant-v1": {
+    "pair": [
+      "dog",
+      "elephant"
+    ],
+    "url": "/assets/models/dog-elephant-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2272,
+      0.0638
+    ],
+    "worldUrl": "/assets/models/dog-elephant-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-dinosaur-frog-v1": {
+    "pair": [
+      "dinosaur",
+      "frog"
+    ],
+    "url": "/assets/models/dinosaur-frog-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.308,
+      0.4147
+    ],
+    "worldUrl": "/assets/models/dinosaur-frog-world.glb",
+    "motion": "hop"
+  },
+  "catalogue-frog-unicorn-v1": {
+    "pair": [
+      "unicorn",
+      "frog"
+    ],
+    "url": "/assets/models/frog-unicorn-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.1591,
+      0.4279
+    ],
+    "worldUrl": "/assets/models/frog-unicorn-world.glb",
+    "motion": "hop"
+  },
+  "catalogue-lion-penguin-v1": {
+    "pair": [
+      "penguin",
+      "lion"
+    ],
+    "url": "/assets/models/lion-penguin-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3344,
+      0.1111
+    ],
+    "worldUrl": "/assets/models/lion-penguin-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-monkey-unicorn-v1": {
+    "pair": [
+      "unicorn",
+      "monkey"
+    ],
+    "url": "/assets/models/monkey-unicorn-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.3689,
+      0.1521
+    ],
+    "worldUrl": "/assets/models/monkey-unicorn-world.glb",
+    "motion": "step"
+  },
+  "catalogue-dog-penguin-v1": {
+    "pair": [
+      "dog",
+      "penguin"
+    ],
+    "url": "/assets/models/dog-penguin-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.1084,
+      0.282
+    ],
+    "worldUrl": "/assets/models/dog-penguin-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-cat-penguin-v1": {
+    "pair": [
+      "cat",
+      "penguin"
+    ],
+    "url": "/assets/models/cat-penguin-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2232,
+      0.1061
+    ],
+    "worldUrl": "/assets/models/cat-penguin-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-dinosaur-dog-v1": {
+    "pair": [
+      "dinosaur",
+      "dog"
+    ],
+    "url": "/assets/models/dinosaur-dog-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2751,
+      0.2993
+    ],
+    "worldUrl": "/assets/models/dinosaur-dog-world.glb",
+    "motion": "step"
+  },
+  "catalogue-elephant-lion-v1": {
+    "pair": [
+      "elephant",
+      "lion"
+    ],
+    "url": "/assets/models/elephant-lion-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2518,
+      -0.2696
+    ],
+    "worldUrl": "/assets/models/elephant-lion-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-dinosaur-elephant-v1": {
+    "pair": [
+      "dinosaur",
+      "elephant"
+    ],
+    "url": "/assets/models/dinosaur-elephant-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2838,
+      0.1344
+    ],
+    "worldUrl": "/assets/models/dinosaur-elephant-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-cat-dinosaur-v1": {
+    "pair": [
+      "dinosaur",
+      "cat"
+    ],
+    "url": "/assets/models/cat-dinosaur-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.2942,
+      0.3647
+    ],
+    "worldUrl": "/assets/models/cat-dinosaur-world.glb",
+    "motion": "step"
+  },
+  "catalogue-elephant-penguin-v1": {
+    "pair": [
+      "elephant",
+      "penguin"
+    ],
+    "url": "/assets/models/elephant-penguin-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.1731,
+      0.1886
+    ],
+    "worldUrl": "/assets/models/elephant-penguin-world.glb",
+    "motion": "waddle"
+  },
+  "catalogue-elephant-frog-v1": {
+    "pair": [
+      "frog",
+      "elephant"
+    ],
+    "url": "/assets/models/elephant-frog-v1.glb",
+    "clips": {
+      "idle": "Idle",
+      "walk": "Walk",
+      "feed": "Eat",
+      "play": "Play",
+      "magic": "Magic",
+      "celebrate": "Celebrate",
+      "sleep": "Sleep"
+    },
+    "mouth": "Mouth",
+    "ballOffset": [
+      -0.1159,
+      -0.3457
+    ],
+    "worldUrl": "/assets/models/elephant-frog-world.glb",
+    "motion": "hop"
+  }
+}
