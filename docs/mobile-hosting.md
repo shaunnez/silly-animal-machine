@@ -8,6 +8,6 @@ Verified using the production browser-storage build served as static files benea
 
 70 unit/integration tests, typecheck, formatting, build and four Sites packaging tests pass. IndexedDB tests cover blob persistence, concurrent collection writes, cross-tab save conflicts and invalid-data preservation. Existing Three.js bundle size warning remains.
 
-The GitHub Actions workflow tests pushes/PRs. Deployment is enabled with repository variable `PAGES_ENABLED=true` after Pages is configured for Actions. It builds with `VITE_STORAGE_MODE=browser` and `VITE_BASE_PATH=/silly-animal-machine/`, then deploys only `dist/client`. Source is in shaunnez/silly-animal-machine; private Pages was rejected by the account plan, so public hosting requires the user's repository-visibility choice.
+The GitHub Actions workflow tests pushes/PRs. Deployment is enabled with repository variable `PAGES_ENABLED=true` after Pages is configured for Actions. It builds with `VITE_STORAGE_MODE=browser` and `VITE_BASE_PATH=/silly-animal-machine/`, then deploys only `dist/client`. The user approved public visibility. Source is in https://github.com/shaunnez/silly-animal-machine and Pages is configured at https://shaunnez.github.io/silly-animal-machine/. `PAGES_ENABLED` is enabled; pushes to main publish after all checks pass.
 
 Original Blender files, provider receipts, `.local` saves and test screenshots stay on the authoring machine. This repository contains the optimized runtime assets, not the full art archive.

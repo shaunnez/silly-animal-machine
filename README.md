@@ -4,6 +4,8 @@ A browser game for phones, tablets and computers: choose two animals, choose one
 
 ## Hosted play and mobile
 
+**[Play Silly Animal Machine](https://shaunnez.github.io/silly-animal-machine/)**
+
 The GitHub Pages build runs entirely in the browser, including creature creation, portrait composition and world saves. It requires no local server, ChatGPT account or API keys. Use the same browser on the same device to keep your collection. Saves are separate on each device and from the original local Mac game; clearing site data/private browsing may remove them. Models and scenery need an internet connection to load; offline installation and cross-device syncing are not implemented.
 
 Mobile has a three-column animal picker, safe-area spacing, separate planet/camera toolbars and a fixed care-action tray with the selected friend's name. Drag the ground to rotate, pinch to zoom, tap a creature to select, or drag its body to carry it. **Move friend** plus a ground tap is an alternative. Mobile rendering uses a capped pixel ratio and fits the globe to portrait screens. Desktop keeps its existing sidebar.

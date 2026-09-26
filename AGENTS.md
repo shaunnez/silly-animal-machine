@@ -56,3 +56,5 @@ The user requested distinct interactive attractions on each planet. Meadow now h
 
 
 The user requested mobile support and deployment to their personal GitHub account shaunnez. Keep the original local Node mode and `.local` saves intact. The hosted build uses `VITE_STORAGE_MODE=browser`, IndexedDB collections/portrait blobs and atomic revision-checked world saves, with no runtime server/provider. Hosted saves are per browser/device; do not imply cross-device sync or upload the existing family collection. GitHub Pages project assets must respect `VITE_BASE_PATH`. Mobile uses a three-column picker, safe-area spacing, controls outside the canvas, a fixed two-column care tray and a wider portrait camera; preserve desktop behaviour. Original authoring art, private saves and provider receipts stay local.
+
+The user explicitly approved public visibility for `shaunnez/silly-animal-machine`. GitHub Pages is configured to deploy `main` through the checked Actions workflow, at `https://shaunnez.github.io/silly-animal-machine/`, with `PAGES_ENABLED=true`. Keep family saves and original authoring assets excluded.
